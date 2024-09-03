@@ -1,0 +1,10 @@
+ print ec2 list
+[
+    "i-097d6facab361da77"
+]
+{
+    "Functions": []
+}
+{
+    "Users": []
+}
