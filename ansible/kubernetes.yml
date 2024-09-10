@@ -1,0 +1,5 @@
+
+create 3 ec2 instances on aws (terraform)
+configure 1 as master (ansible)
+other 2 as workers (ansible)
+
